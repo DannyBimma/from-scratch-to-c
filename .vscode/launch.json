@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/dannybimma/Dev/cs50/from-scratch-to-c",
+      "environment": [],
+      "program": "/Users/dannybimma/Dev/cs50/from-scratch-to-c/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "lldb",
+      "console": "integratedTerminal"
+    }
+  ]
+}
